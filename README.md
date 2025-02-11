@@ -71,7 +71,7 @@ code $profile
 notepad $profile
 ```
 ### 4.更多模块
-可以在https://www.powershellgallery.com/获取到更多的模块
+可以在https://www.powershellgallery.com/ 获取到更多的模块
 
 
 
